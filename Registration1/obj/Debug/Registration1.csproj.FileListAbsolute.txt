@@ -1,0 +1,10 @@
+G:\DotnetThings\Registration1\bin\Debug\Registration1.exe.config
+G:\DotnetThings\Registration1\bin\Debug\Registration1.exe
+G:\DotnetThings\Registration1\bin\Debug\Registration1.pdb
+G:\DotnetThings\Registration1\obj\Debug\Registration1.csproj.AssemblyReference.cache
+G:\DotnetThings\Registration1\obj\Debug\Registration1.Properties.Resources.resources
+G:\DotnetThings\Registration1\obj\Debug\Registration1.csproj.GenerateResource.cache
+G:\DotnetThings\Registration1\obj\Debug\Registration1.csproj.CoreCompileInputs.cache
+G:\DotnetThings\Registration1\obj\Debug\Registration1.exe
+G:\DotnetThings\Registration1\obj\Debug\Registration1.pdb
+G:\DotnetThings\Registration1\obj\Debug\Registration1.Registration.resources

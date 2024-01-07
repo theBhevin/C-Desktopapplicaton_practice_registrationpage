@@ -1,0 +1,11 @@
+G:\DotnetThings\StoreManageMent_1\bin\Debug\StoreManageMent_1.exe.config
+G:\DotnetThings\StoreManageMent_1\bin\Debug\StoreManageMent_1.exe
+G:\DotnetThings\StoreManageMent_1\bin\Debug\StoreManageMent_1.pdb
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.csproj.AssemblyReference.cache
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.StoreManagement.resources
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.Properties.Resources.resources
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.csproj.GenerateResource.cache
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.csproj.CoreCompileInputs.cache
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.exe
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.pdb
+G:\DotnetThings\StoreManageMent_1\obj\Debug\StoreManageMent_1.StoreManagement_1.resources
